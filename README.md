@@ -14,5 +14,5 @@ Mesekai is a real-time 3D virtual avatar and world web application. Users can se
 | Jose Atienza         | jatienza1@mail.sfsu.edu    | JMAtienza        |
 | Eugene San Juan      | esanjuan@mail.sfsu.edu     | esanjuan915      |
 | Matthew Madore       | mmadore@mail.sfsu.edu      | matthewMadore    |
-| Mohammad Abdelrahman | mabdelrahman@mail.sfsu.edu | albossmohammad83 |
+| Mohammad Abdelrahman | mabdelrahman@mail.sfsu.edu | 94mohabd         |
 
